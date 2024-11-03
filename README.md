@@ -3,17 +3,20 @@
 <img align='right'  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5mNmx6eTJwMXdmMnJmZGtxdHNnODV1OGdrZDdqMWc3NnZ2dG1mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZbNJojSbuJvIIVGl2t/giphy.webp" width="330" > 
 
 
-<p><em>Working with <a href="https://github.com/Kurama622/.lazyvim">neovim</a>
+<p><em>Working with <a href="https://github.com/Kurama622/.lazyvim">Neovim</a>, and my <a href="https://github.com/Kurama622/dotfiles">Dotfiles</a>
 <!-- </br>Taking notes on <a href="https://kurama622.gitee.io/">blog</a> -->
 <!-- </br>Recording thoughts on <a href="https://kurama622.github.io/Draft">draft</a> -->
 </em></p>
 
 ### ⭐️ Neovim Plugins
 
-- **[markdown-org](https://github.com/Kurama622/markdown-org):** Run code in markdown.
-- **[FloatRun](https://github.com/Kurama622/FloatRun):** A minimize plugin running code in float window.
 - **[llm.nvim](https://github.com/Kurama622/llm.nvim):** Free large language model (LLM) support for Neovim.
+- **[markdown-org](https://github.com/Kurama622/markdown-org):** Run code in markdown.
+- **[profile.nvim](https://github.com/Kurama622/profile.nvim):** Your Personal Profile in Neovim.
+- **[FloatRun](https://github.com/Kurama622/FloatRun):** A minimize plugin running code in float window.
 - **[style-transfer.nvim](https://github.com/Kurama622/style-transfer.nvim):** Variable naming style transfer, like vim-abolish.
+
+[All My Neovim plugins](https://github.com/search?q=owner%3AKurama622+neovim-plugin&type=repositories)
 
 ### 😃 Other Projects
 - **[StartUp](https://github.com/Kurama622/StartUp):** Terminal Dashboard.
