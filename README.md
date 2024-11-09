@@ -38,7 +38,7 @@ local profile = {
 
 ### 🔥 GitHub Analytics
 <p align= "center">
-  <img height= "170" src="https://github-readme-stats.vercel.app/api?username=Kurama622&show_icons=true&hide=issues&theme=dracula" />
+  <img height= "170" src="https://github-readme-stats.vercel.app/api?username=kurama622&show_icons=true&include_all_commits=true&hide=issues&theme=dracula" />
    &nbsp;
   <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurama622&layout=compact&langs_count=5&hide=html,Makefile&theme=dracula" />
 </p>
