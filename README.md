@@ -16,7 +16,7 @@
 - **[FloatRun](https://github.com/Kurama622/FloatRun):** A minimize plugin running code in floating window.
 - **[style-transfer.nvim](https://github.com/Kurama622/style-transfer.nvim):** Variable naming style transfer, like vim-abolish.
 
-[All My Neovim plugins](https://github.com/search?q=owner%3AKurama622+neovim-plugin&type=repositories)
+[All My Neovim plugins](https://github.com/stars/Kurama622/lists/my-plugins)
 
 ### 😃 Other Projects
 - **[StartUp](https://github.com/Kurama622/StartUp):** Terminal Dashboard.
