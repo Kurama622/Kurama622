@@ -10,7 +10,7 @@
 
 ### ⭐️ Neovim Plugins
 
-- **[llm.nvim](https://github.com/Kurama622/llm.nvim):** Free large language model (LLM) support for Neovim.
+- **[llm.nvim](https://github.com/Kurama622/llm.nvim):** Large language model (LLM) support for Neovim.
 - **[markdown-org](https://github.com/Kurama622/markdown-org):** Run code in markdown.
 - **[profile.nvim](https://github.com/Kurama622/profile.nvim):** Your Personal Homepage.
 - **[FloatRun](https://github.com/Kurama622/FloatRun):** A minimize plugin running code in floating window.
