@@ -38,7 +38,7 @@ local profile = {
 
 ### 🔥 GitHub Analytics
 <p align= "center">
-  <img height= "450" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kurama622&theme=dracula" />
+  <img height= "600" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kurama622&theme=dracula" />
    &nbsp;
-  <img height= "450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurama622&theme=dracula&exclude=html" />
+  <img height= "600" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kurama622&theme=dracula&exclude=html" />
 </p>
