@@ -14,7 +14,7 @@
 - **[markdown-org](https://github.com/Kurama622/markdown-org):** Run code in markdown.
 - **[profile.nvim](https://github.com/Kurama622/profile.nvim):** Your Personal Homepage.
 - **[FloatRun](https://github.com/Kurama622/FloatRun):** A minimize plugin running code in floating window.
-- **[style-transfer.nvim](https://github.com/Kurama622/style-transfer.nvim):** Variable naming style transfer, like vim-abolish.
+- **[fsbuffer.nvim](https://github.com/Kurama622/fsbuffer.nvim):** A Neovim File Manager But Like A Buffer.
 
 [All My Neovim plugins](https://github.com/stars/Kurama622/lists/my-plugins)
 
