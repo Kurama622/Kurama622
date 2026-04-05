@@ -16,6 +16,10 @@
 - **[FloatRun](https://github.com/Kurama622/FloatRun):** A minimize plugin running code in floating window.
 - **[fsbuffer.nvim](https://github.com/Kurama622/fsbuffer.nvim):** A Neovim File Manager But Like A Buffer.
 - **[clean-diagnostic](https://github.com/Kurama622/clean-diagnostic):** A clean diagnostic plugin.
+- **[context.lua](https://github.com/Kurama622/context.lua):** Show the context (function, class) in the statusline.
+
+Resources
+
 
 [All My Neovim plugins](https://github.com/stars/Kurama622/lists/my-plugins)
 
