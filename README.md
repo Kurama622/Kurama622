@@ -12,8 +12,7 @@
 
 - **[llm.nvim](https://github.com/Kurama622/llm.nvim):** Large language model (LLM) support for Neovim.
 - **[markdown-org](https://github.com/Kurama622/markdown-org):** Run code in markdown.
-- **[profile.nvim](https://github.com/Kurama622/profile.nvim):** Your Personal Homepage.
-- **[FloatRun](https://github.com/Kurama622/FloatRun):** A minimize plugin running code in floating window.
+- **[dashboard-github.nvim](https://github.com/Kurama622/dashboard-github.nvim):** A dashboard with a GitHub commit heatmap.
 - **[fsbuffer.nvim](https://github.com/Kurama622/fsbuffer.nvim):** A Neovim File Manager But Like A Buffer.
 - **[clean-diagnostic](https://github.com/Kurama622/clean-diagnostic):** A clean diagnostic plugin.
 - **[context.lua](https://github.com/Kurama622/context.lua):** Show the context (function, class) in the statusline.
